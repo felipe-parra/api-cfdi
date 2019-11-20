@@ -1,7 +1,7 @@
 {
 	"name": "api-cfdis",
 	"version": "1.0.0",
-	"description": "api rest CFDIS",
+	"description": "api rest using sequelize",
 	"main": "index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
@@ -10,6 +10,7 @@
 	},
 	"keywords": [],
 	"author": "@_felipeparra",
+	"repository": "git@github.com:pipepico/api-cfdi.git",
 	"license": "ISC",
 	"devDependencies": {
 		"nodemon": "^1.19.4"
